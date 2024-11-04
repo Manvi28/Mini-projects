@@ -1,0 +1,33 @@
+h2{
+    color: red;
+}
+span{
+    color: brown;
+}
+.cards{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10ox;
+    margin: 10px;
+    box-shadow: 2px 2px 30px black;
+    text-align: justify;
+
+
+}
+p{
+    text-indent: 5px;
+}
+img{
+    width: 100%;
+    border-radius: 25px;
+    
+    
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cards:hover{
+    box-shadow: 2px 2px 30px darkmagenta;
+}
